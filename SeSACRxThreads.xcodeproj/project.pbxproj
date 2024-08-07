@@ -35,6 +35,7 @@
 		6B6BDD372C60F09B00AD97A5 /* ShoppingListCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B6BDD362C60F09B00AD97A5 /* ShoppingListCell.swift */; };
 		6B6BDD3A2C60F16100AD97A5 /* Identifier+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B6BDD392C60F16100AD97A5 /* Identifier+Extension.swift */; };
 		6B6BDD3C2C60F24D00AD97A5 /* ShoppingListViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B6BDD3B2C60F24D00AD97A5 /* ShoppingListViewModel.swift */; };
+		6B819A7A2C634F2C00519FB5 /* ShoppingRecommendCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B819A792C634F2C00519FB5 /* ShoppingRecommendCollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -84,6 +85,7 @@
 		6B6BDD362C60F09B00AD97A5 /* ShoppingListCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShoppingListCell.swift; sourceTree = "<group>"; };
 		6B6BDD392C60F16100AD97A5 /* Identifier+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Identifier+Extension.swift"; sourceTree = "<group>"; };
 		6B6BDD3B2C60F24D00AD97A5 /* ShoppingListViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShoppingListViewModel.swift; sourceTree = "<group>"; };
+		6B819A792C634F2C00519FB5 /* ShoppingRecommendCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShoppingRecommendCollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -225,6 +227,7 @@
 				6B521BC82C5FA8A2002295BA /* ShoppingListViewController.swift */,
 				6B6BDD3B2C60F24D00AD97A5 /* ShoppingListViewModel.swift */,
 				6B6BDD362C60F09B00AD97A5 /* ShoppingListCell.swift */,
+				6B819A792C634F2C00519FB5 /* ShoppingRecommendCollectionViewCell.swift */,
 			);
 			path = List;
 			sourceTree = "<group>";
@@ -386,6 +389,7 @@
 				041280632AEFA0CE00972552 /* PointButton.swift in Sources */,
 				04F6DC022C5B0D8200667F4D /* DetailViewController.swift in Sources */,
 				6B6BDD372C60F09B00AD97A5 /* ShoppingListCell.swift in Sources */,
+				6B819A7A2C634F2C00519FB5 /* ShoppingRecommendCollectionViewCell.swift in Sources */,
 				041280242AEF9BAB00972552 /* AppDelegate.swift in Sources */,
 				04F6DBFE2C5B0C0300667F4D /* SearchViewController.swift in Sources */,
 				04F6DC002C5B0C2200667F4D /* SearchTableViewCell.swift in Sources */,
